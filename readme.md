@@ -24,4 +24,4 @@ VRED-drawLinesDesktopCollab Single User:
 ![](VRED-drawLinesDesktopCollab1.gif)
 
 VRED-drawLinesDesktopCollab Multi User:
-![](VRED-drawLinesDesktopCollab3.gif)
+![](VRED-drawLinesDesktopCollab4.gif)
