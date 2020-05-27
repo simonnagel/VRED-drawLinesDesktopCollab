@@ -1,5 +1,5 @@
 # VRED-drawLinesDesktopCollab
-## Improve your Design Collaboration by drawing 3D Lines on 3D Geometry in VRED in Standard Desktop Mode.
+## Improve your Design Collaboration by drawing 3D Lines on 3D Geometry in VRED in Standard Desktop Mode. Interactivly communicate Design Intent and Issues virtually to your colleagues directly in your VRED Environment. Collaboration participants will see the drawings and sketches immedeatly.
 
 Just paste the Scene in the Script Editor of VRED and press run.
 
