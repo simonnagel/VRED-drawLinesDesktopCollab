@@ -1,5 +1,5 @@
 # VRED-drawLinesDesktopCollab
-## Allows you to draw 3D Lines on 3D Geometry in VRED even in Collaboration.
+## Improve your Design Collaboration by drawing 3D Lines on 3D Geometry in VRED.
 
 Just paste the Scene in the Script Editor of VRED and press run.
 
