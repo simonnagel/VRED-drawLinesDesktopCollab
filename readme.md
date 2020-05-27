@@ -1,5 +1,5 @@
 # Draw 3D Lines in VRED Standard Display Mode
-## Improve your Design Collaboration by drawing 3D Lines on 3D Geometry in VRED in Standard Display Mode. 
+### Improve your Design Collaboration by drawing 3D Lines on 3D Geometry in VRED in Standard Display Mode. 
 ### Interactivly communicate Design Intent and Issues virtually to your colleagues directly in your VRED Environment. Collaboration participants will see the drawings and sketches immedeatly. 
 ### Color of Drawing will be align with color of Collaboration Participant.
 ### Lines will be named according to the Drawer's name
