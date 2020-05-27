@@ -18,6 +18,7 @@ Press G to remove all the lines
 This script works in VRED Collaboration.
 Please make sure that, the Script is executed on each computer of each participant.
 
+
 ### VRED-drawLinesDesktopCollab:
 VRED-drawLinesDesktopCollab Single User:
 ![](VRED-drawLinesDesktopCollab1.gif)
