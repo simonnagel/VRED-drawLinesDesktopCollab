@@ -266,7 +266,7 @@ def drawDesktop():
     count = count +1
     if mousePos[0] !=-1:
         
-        if ctypes.windll.user32.GetKeyState(leftclick) > 1 :              #ctypes.windll.user32.GetKeyState(leftclick) > 1:     # D button is presse
+        if ctypes.windll.user32.GetKeyState(leftclick) > 1 and x!=0 and y!=0 and z!=0:              #ctypes.windll.user32.GetKeyState(leftclick) > 1:     # D button is presse
             leftclickpressed = True
             if count ==1:
 
