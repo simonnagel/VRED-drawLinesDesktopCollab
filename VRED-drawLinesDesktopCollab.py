@@ -181,7 +181,8 @@ def lastLine():
     vrSessionService.sendPython('lineGrp = findNode("D_Lines")')
     vrSessionService.sendPython('linegrp_VRDObject = vrNodeService.getNodeFromId(lineGrp.getID())')
     vrSessionService.sendPython('amountChildren = linegrp_VRDObject.getChildren()')
-    vrSessionService.sendPython('deleteNode(amountChildren[-1],1)')
+    vrSessionService.sendPython('if len(amountChildren) > 0: deleteNode(amountChildren[-1], 1)')
+    vrSessionService.sendPython('if not len(amountChildren): print("No more lines.")')
     #deleteNode(amountChildren[-1],1)
 
 key_G = vrKey(Key_G)
